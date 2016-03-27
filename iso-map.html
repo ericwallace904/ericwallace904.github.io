@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>ISO Rating Map</title>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+<script>
+      // ISO rating map for Jacksonville, FL
+
+      var jaxISOMapOverlay;
+
+      function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 10,
+          center: {lat: 30.32890, lng: -81.66170}
+        });
+
+        var imageBounds = {
+          north: 30.615097,
+          south: 30.078519,
+          east: -81.290631,
+          west: -81.094628
+        };
+
+        jaxISOMapOverlay = new google.maps.GroundOverlay(
+            'http://media.news4jax.com/photo/2016/03/25/ISO_stations_only_transparent_1458934736610_2449554_ver1.0.png',
+            imageBounds);
+	jaxISOMapOverlay.setOpacity(opacity:50);
+        jaxISOMapOverlay.setMap(map);
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDIytVhYViYiBt-QvoRdpbH1dyhi46r4PE&callback=initMap">
+    </script>
+    <div id="map"></div>
+    </body>
+</html>
