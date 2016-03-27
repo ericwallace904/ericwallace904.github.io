@@ -18,7 +18,7 @@
 <scale>1.0</scale>
 </LabelStyle>
 <LineStyle>
-<color>ffbc822f</color>
+<color>ffffff</color>
 <width>2</width>
 <gx:labelVisibility>1</gx:labelVisibility>
 </LineStyle>
@@ -75,7 +75,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -114,7 +114,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -153,7 +153,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -192,7 +192,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -231,7 +231,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -270,7 +270,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -309,7 +309,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -348,7 +348,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -387,7 +387,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -426,7 +426,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -470,7 +470,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -509,11 +509,11 @@
 </SchemaData>
 </ExtendedData>
 <MultiGeometry>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -523,7 +523,7 @@
 </outerBoundaryIs>
 </Polygon>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -563,11 +563,11 @@
 </SchemaData>
 </ExtendedData>
 <MultiGeometry>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -577,7 +577,7 @@
 </outerBoundaryIs>
 </Polygon>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -617,11 +617,11 @@
 </SchemaData>
 </ExtendedData>
 <MultiGeometry>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -631,7 +631,7 @@
 </outerBoundaryIs>
 </Polygon>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -641,7 +641,7 @@
 </outerBoundaryIs>
 </Polygon>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -651,7 +651,7 @@
 </outerBoundaryIs>
 </Polygon>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -691,7 +691,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -730,7 +730,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -769,7 +769,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -808,7 +808,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -847,7 +847,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -886,7 +886,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -925,7 +925,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -964,11 +964,11 @@
 </SchemaData>
 </ExtendedData>
 <MultiGeometry>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -978,7 +978,7 @@
 </outerBoundaryIs>
 </Polygon>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -988,7 +988,7 @@
 </outerBoundaryIs>
 </Polygon>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -1028,7 +1028,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -1077,7 +1077,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -1116,7 +1116,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -1155,7 +1155,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -1194,7 +1194,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -1233,7 +1233,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -1272,7 +1272,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -1331,7 +1331,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -1370,7 +1370,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -1409,7 +1409,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -1448,7 +1448,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
@@ -1487,7 +1487,7 @@
 </SchemaData>
 </ExtendedData>
 <Polygon>
-<extrude>1</extrude>
+<extrude>0</extrude>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
 <outerBoundaryIs>
