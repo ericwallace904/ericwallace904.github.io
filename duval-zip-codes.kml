@@ -9,6 +9,7 @@
 <scale>0.8</scale>
 </IconStyle>
 <LabelStyle>
+<color>ff000000</color>
 <scale>1.0</scale>
 </LabelStyle>
 <LineStyle>
@@ -43,30 +44,15 @@
 
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32208</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32208</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32208</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>30101531</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>4821632</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32208</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32208</SimpleData>
-<SimpleData name="GEOID10">32208</SimpleData>
-<SimpleData name="ALAND10">30101531</SimpleData>
-<SimpleData name="AWATER10">4821632</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32208</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32208</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32208</SimpleData> -->
+<!-- <SimpleData name="ALAND10">30101531</SimpleData> -->
+<!-- <SimpleData name="AWATER10">4821632</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -82,30 +68,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32234</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32234</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32234</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>335452762</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>1292286</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32234</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32234</SimpleData>
-<SimpleData name="GEOID10">32234</SimpleData>
-<SimpleData name="ALAND10">335452762</SimpleData>
-<SimpleData name="AWATER10">1292286</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32234</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32234</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32234</SimpleData> -->
+<!-- <SimpleData name="ALAND10">335452762</SimpleData> -->
+<!-- <SimpleData name="AWATER10">1292286</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -121,30 +92,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32258</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32258</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32258</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>48505083</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>1255455</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32258</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32258</SimpleData>
-<SimpleData name="GEOID10">32258</SimpleData>
-<SimpleData name="ALAND10">48505083</SimpleData>
-<SimpleData name="AWATER10">1255455</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32258</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32258</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32258</SimpleData> -->
+<!-- <SimpleData name="ALAND10">48505083</SimpleData> -->
+<!-- <SimpleData name="AWATER10">1255455</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -160,30 +116,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32228</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32228</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32228</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>335197</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>0</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32228</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32228</SimpleData>
-<SimpleData name="GEOID10">32228</SimpleData>
-<SimpleData name="ALAND10">335197</SimpleData>
-<SimpleData name="AWATER10">0</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32228</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32228</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32228</SimpleData> -->
+<!-- <SimpleData name="ALAND10">335197</SimpleData> -->
+<!-- <SimpleData name="AWATER10">0</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -199,30 +140,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32266</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32266</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32266</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>6039145</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>1536082</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32266</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32266</SimpleData>
-<SimpleData name="GEOID10">32266</SimpleData>
-<SimpleData name="ALAND10">6039145</SimpleData>
-<SimpleData name="AWATER10">1536082</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32266</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32266</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32266</SimpleData> -->
+<!-- <SimpleData name="ALAND10">6039145</SimpleData> -->
+<!-- <SimpleData name="AWATER10">1536082</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -238,30 +164,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32209</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32209</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32209</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>24177624</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>80330</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32209</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32209</SimpleData>
-<SimpleData name="GEOID10">32209</SimpleData>
-<SimpleData name="ALAND10">24177624</SimpleData>
-<SimpleData name="AWATER10">80330</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32209</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32209</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32209</SimpleData> -->
+<!-- <SimpleData name="ALAND10">24177624</SimpleData> -->
+<!-- <SimpleData name="AWATER10">80330</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -277,30 +188,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32205</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32205</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32205</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>19648085</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>4513714</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32205</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32205</SimpleData>
-<SimpleData name="GEOID10">32205</SimpleData>
-<SimpleData name="ALAND10">19648085</SimpleData>
-<SimpleData name="AWATER10">4513714</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32205</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32205</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32205</SimpleData> -->
+<!-- <SimpleData name="ALAND10">19648085</SimpleData> -->
+<!-- <SimpleData name="AWATER10">4513714</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -316,30 +212,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32256</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32256</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32256</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>164140681</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>1877748</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32256</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32256</SimpleData>
-<SimpleData name="GEOID10">32256</SimpleData>
-<SimpleData name="ALAND10">164140681</SimpleData>
-<SimpleData name="AWATER10">1877748</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32256</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32256</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32256</SimpleData> -->
+<!-- <SimpleData name="ALAND10">164140681</SimpleData> -->
+<!-- <SimpleData name="AWATER10">1877748</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -355,30 +236,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32223</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32223</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32223</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>29739526</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>24717416</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32223</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32223</SimpleData>
-<SimpleData name="GEOID10">32223</SimpleData>
-<SimpleData name="ALAND10">29739526</SimpleData>
-<SimpleData name="AWATER10">24717416</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32223</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32223</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32223</SimpleData> -->
+<!-- <SimpleData name="ALAND10">29739526</SimpleData> -->
+<!-- <SimpleData name="AWATER10">24717416</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -394,30 +260,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32227</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32227</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32227</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>3268210</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>2346364</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32227</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32227</SimpleData>
-<SimpleData name="GEOID10">32227</SimpleData>
-<SimpleData name="ALAND10">3268210</SimpleData>
-<SimpleData name="AWATER10">2346364</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32227</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32227</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32227</SimpleData> -->
+<!-- <SimpleData name="ALAND10">3268210</SimpleData> -->
+<!-- <SimpleData name="AWATER10">2346364</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -438,30 +289,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32233</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32233</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32233</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>26395814</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>8195242</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32233</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32233</SimpleData>
-<SimpleData name="GEOID10">32233</SimpleData>
-<SimpleData name="ALAND10">26395814</SimpleData>
-<SimpleData name="AWATER10">8195242</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32233</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32233</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32233</SimpleData> -->
+<!-- <SimpleData name="ALAND10">26395814</SimpleData> -->
+<!-- <SimpleData name="AWATER10">8195242</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -477,30 +313,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32226</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32226</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32226</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>221979917</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>66554726</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32226</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32226</SimpleData>
-<SimpleData name="GEOID10">32226</SimpleData>
-<SimpleData name="ALAND10">221979917</SimpleData>
-<SimpleData name="AWATER10">66554726</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32226</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32226</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32226</SimpleData> -->
+<!-- <SimpleData name="ALAND10">221979917</SimpleData> -->
+<!-- <SimpleData name="AWATER10">66554726</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <MultiGeometry>
@@ -531,30 +352,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32246</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32246</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32246</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>49040289</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>658713</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32246</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32246</SimpleData>
-<SimpleData name="GEOID10">32246</SimpleData>
-<SimpleData name="ALAND10">49040289</SimpleData>
-<SimpleData name="AWATER10">658713</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32246</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32246</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32246</SimpleData> -->
+<!-- <SimpleData name="ALAND10">49040289</SimpleData> -->
+<!-- <SimpleData name="AWATER10">658713</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <MultiGeometry>
@@ -585,30 +391,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32250</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32250</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32250</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>22307776</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>6261181</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32250</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32250</SimpleData>
-<SimpleData name="GEOID10">32250</SimpleData>
-<SimpleData name="ALAND10">22307776</SimpleData>
-<SimpleData name="AWATER10">6261181</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32250</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32250</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32250</SimpleData> -->
+<!-- <SimpleData name="ALAND10">22307776</SimpleData> -->
+<!-- <SimpleData name="AWATER10">6261181</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <MultiGeometry>
@@ -659,30 +450,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32218</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32218</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32218</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>250535109</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>10453784</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32218</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32218</SimpleData>
-<SimpleData name="GEOID10">32218</SimpleData>
-<SimpleData name="ALAND10">250535109</SimpleData>
-<SimpleData name="AWATER10">10453784</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32218</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32218</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32218</SimpleData> -->
+<!-- <SimpleData name="ALAND10">250535109</SimpleData> -->
+<!-- <SimpleData name="AWATER10">10453784</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -698,30 +474,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32254</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32254</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32254</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>32111851</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>87524</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32254</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32254</SimpleData>
-<SimpleData name="GEOID10">32254</SimpleData>
-<SimpleData name="ALAND10">32111851</SimpleData>
-<SimpleData name="AWATER10">87524</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32254</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32254</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32254</SimpleData> -->
+<!-- <SimpleData name="ALAND10">32111851</SimpleData> -->
+<!-- <SimpleData name="AWATER10">87524</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -737,30 +498,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32219</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32219</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32219</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>138340611</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>1221820</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32219</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32219</SimpleData>
-<SimpleData name="GEOID10">32219</SimpleData>
-<SimpleData name="ALAND10">138340611</SimpleData>
-<SimpleData name="AWATER10">1221820</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32219</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32219</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32219</SimpleData> -->
+<!-- <SimpleData name="ALAND10">138340611</SimpleData> -->
+<!-- <SimpleData name="AWATER10">1221820</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -776,30 +522,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32225</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32225</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32225</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>68512416</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>21071049</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32225</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32225</SimpleData>
-<SimpleData name="GEOID10">32225</SimpleData>
-<SimpleData name="ALAND10">68512416</SimpleData>
-<SimpleData name="AWATER10">21071049</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32225</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32225</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32225</SimpleData> -->
+<!-- <SimpleData name="ALAND10">68512416</SimpleData> -->
+<!-- <SimpleData name="AWATER10">21071049</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -815,30 +546,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32277</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32277</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32277</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>18557979</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>9227251</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32277</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32277</SimpleData>
-<SimpleData name="GEOID10">32277</SimpleData>
-<SimpleData name="ALAND10">18557979</SimpleData>
-<SimpleData name="AWATER10">9227251</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32277</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32277</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32277</SimpleData> -->
+<!-- <SimpleData name="ALAND10">18557979</SimpleData> -->
+<!-- <SimpleData name="AWATER10">9227251</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -854,30 +570,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32206</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32206</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32206</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>15966496</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>3852867</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32206</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32206</SimpleData>
-<SimpleData name="GEOID10">32206</SimpleData>
-<SimpleData name="ALAND10">15966496</SimpleData>
-<SimpleData name="AWATER10">3852867</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32206</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32206</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32206</SimpleData> -->
+<!-- <SimpleData name="ALAND10">15966496</SimpleData> -->
+<!-- <SimpleData name="AWATER10">3852867</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -893,30 +594,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32210</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32210</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32210</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>52191211</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>14222942</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32210</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32210</SimpleData>
-<SimpleData name="GEOID10">32210</SimpleData>
-<SimpleData name="ALAND10">52191211</SimpleData>
-<SimpleData name="AWATER10">14222942</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32210</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32210</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32210</SimpleData> -->
+<!-- <SimpleData name="ALAND10">52191211</SimpleData> -->
+<!-- <SimpleData name="AWATER10">14222942</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -932,30 +618,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32211</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32211</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32211</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>21335779</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>2270379</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32211</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32211</SimpleData>
-<SimpleData name="GEOID10">32211</SimpleData>
-<SimpleData name="ALAND10">21335779</SimpleData>
-<SimpleData name="AWATER10">2270379</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32211</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32211</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32211</SimpleData> -->
+<!-- <SimpleData name="ALAND10">21335779</SimpleData> -->
+<!-- <SimpleData name="AWATER10">2270379</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <MultiGeometry>
@@ -996,30 +667,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32216</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32216</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32216</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>32560750</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>1175277</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32216</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32216</SimpleData>
-<SimpleData name="GEOID10">32216</SimpleData>
-<SimpleData name="ALAND10">32560750</SimpleData>
-<SimpleData name="AWATER10">1175277</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32216</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32216</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32216</SimpleData> -->
+<!-- <SimpleData name="ALAND10">32560750</SimpleData> -->
+<!-- <SimpleData name="AWATER10">1175277</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -1045,30 +701,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32244</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32244</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32244</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>61118054</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>1272468</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32244</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32244</SimpleData>
-<SimpleData name="GEOID10">32244</SimpleData>
-<SimpleData name="ALAND10">61118054</SimpleData>
-<SimpleData name="AWATER10">1272468</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32244</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32244</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32244</SimpleData> -->
+<!-- <SimpleData name="ALAND10">61118054</SimpleData> -->
+<!-- <SimpleData name="AWATER10">1272468</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -1084,30 +725,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32207</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32207</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32207</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>29858779</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>12095064</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32207</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32207</SimpleData>
-<SimpleData name="GEOID10">32207</SimpleData>
-<SimpleData name="ALAND10">29858779</SimpleData>
-<SimpleData name="AWATER10">12095064</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32207</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32207</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32207</SimpleData> -->
+<!-- <SimpleData name="ALAND10">29858779</SimpleData> -->
+<!-- <SimpleData name="AWATER10">12095064</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -1123,30 +749,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32222</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32222</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32222</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>29944113</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>129128</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32222</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32222</SimpleData>
-<SimpleData name="GEOID10">32222</SimpleData>
-<SimpleData name="ALAND10">29944113</SimpleData>
-<SimpleData name="AWATER10">129128</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32222</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32222</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32222</SimpleData> -->
+<!-- <SimpleData name="ALAND10">29944113</SimpleData> -->
+<!-- <SimpleData name="AWATER10">129128</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -1162,30 +773,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32202</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32202</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32202</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>5122236</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>2443627</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32202</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32202</SimpleData>
-<SimpleData name="GEOID10">32202</SimpleData>
-<SimpleData name="ALAND10">5122236</SimpleData>
-<SimpleData name="AWATER10">2443627</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32202</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32202</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32202</SimpleData> -->
+<!-- <SimpleData name="ALAND10">5122236</SimpleData> -->
+<!-- <SimpleData name="AWATER10">2443627</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -1201,30 +797,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32220</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32220</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32220</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>158903955</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>1580241</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32220</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32220</SimpleData>
-<SimpleData name="GEOID10">32220</SimpleData>
-<SimpleData name="ALAND10">158903955</SimpleData>
-<SimpleData name="AWATER10">1580241</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32220</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32220</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32220</SimpleData> -->
+<!-- <SimpleData name="ALAND10">158903955</SimpleData> -->
+<!-- <SimpleData name="AWATER10">1580241</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -1240,30 +821,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32224</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32224</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32224</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>54716646</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>2449290</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32224</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32224</SimpleData>
-<SimpleData name="GEOID10">32224</SimpleData>
-<SimpleData name="ALAND10">54716646</SimpleData>
-<SimpleData name="AWATER10">2449290</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32224</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32224</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32224</SimpleData> -->
+<!-- <SimpleData name="ALAND10">54716646</SimpleData> -->
+<!-- <SimpleData name="AWATER10">2449290</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -1299,30 +865,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32221</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32221</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32221</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>93059509</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>469943</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32221</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32221</SimpleData>
-<SimpleData name="GEOID10">32221</SimpleData>
-<SimpleData name="ALAND10">93059509</SimpleData>
-<SimpleData name="AWATER10">469943</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32221</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32221</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32221</SimpleData> -->
+<!-- <SimpleData name="ALAND10">93059509</SimpleData> -->
+<!-- <SimpleData name="AWATER10">469943</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -1338,30 +889,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">0
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32217</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32217</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32217</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>13674887</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>9728139</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32217</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32217</SimpleData>
-<SimpleData name="GEOID10">32217</SimpleData>
-<SimpleData name="ALAND10">13674887</SimpleData>
-<SimpleData name="AWATER10">9728139</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32217</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32217</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32217</SimpleData> -->
+<!-- <SimpleData name="ALAND10">13674887</SimpleData> -->
+<!-- <SimpleData name="AWATER10">9728139</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -1377,30 +913,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32212</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32212</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32212</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>13707155</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>8746079</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32212</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32212</SimpleData>
-<SimpleData name="GEOID10">32212</SimpleData>
-<SimpleData name="ALAND10">13707155</SimpleData>
-<SimpleData name="AWATER10">8746079</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32212</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32212</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32212</SimpleData> -->
+<!-- <SimpleData name="ALAND10">13707155</SimpleData> -->
+<!-- <SimpleData name="AWATER10">8746079</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -1416,30 +937,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32257</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32257</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32257</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>31641916</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>11936834</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32257</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32257</SimpleData>
-<SimpleData name="GEOID10">32257</SimpleData>
-<SimpleData name="ALAND10">31641916</SimpleData>
-<SimpleData name="AWATER10">11936834</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32257</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32257</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32257</SimpleData> -->
+<!-- <SimpleData name="ALAND10">31641916</SimpleData> -->
+<!-- <SimpleData name="AWATER10">11936834</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
@@ -1455,30 +961,15 @@
 </Placemark>
 <Placemark id="cb_2014_us_zcta510_500k">
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>ZCTA5CE10</th>
-<td>32204</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID10</th>
-<td>8600000US32204</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID10</th>
-<td>32204</td>
-</tr><tr bgcolor="">
-<th>ALAND10</th>
-<td>7051743</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER10</th>
-<td>3875139</td>
-</tr></table></center>]]></description>
+<description></description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2014_us_zcta510_500k">
-<SimpleData name="ZCTA5CE10">32204</SimpleData>
-<SimpleData name="AFFGEOID10">8600000US32204</SimpleData>
-<SimpleData name="GEOID10">32204</SimpleData>
-<SimpleData name="ALAND10">7051743</SimpleData>
-<SimpleData name="AWATER10">3875139</SimpleData>
+<!-- <SimpleData name="ZCTA5CE10">32204</SimpleData> -->
+<!-- <SimpleData name="AFFGEOID10">8600000US32204</SimpleData> -->
+<!-- <SimpleData name="GEOID10">32204</SimpleData> -->
+<!-- <SimpleData name="ALAND10">7051743</SimpleData> -->
+<!-- <SimpleData name="AWATER10">3875139</SimpleData> -->
 </SchemaData>
 </ExtendedData>
 <Polygon>
