@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>ISO Rating Map</title>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body onLoad="initMap();">
+    <div id="map"></div>
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+<script src="jsmap-label.js"></script>
+<script>
+      // ISO rating map for Jacksonville, FL
+
+      var jaxISOMapOverlay;
+
+      function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 11,
+          center: {lat: 30.32890, lng: -81.66170}
+        });
+
+        var imageBounds = {
+          north: 30.618569,
+          south: 30.078519,
+          east: -81.290631,
+          west: -82.097633
+
+        };
+
+	var zipLabels = [
+		{"text":"32208","latitude":"30.3893011","longitude":"-81.6802053999999"},
+		{"text":"32234","latitude":"30.2372998","longitude":"-81.9971108"},
+		{"text":"32258","latitude":"30.1532158","longitude":"-81.5706108999999"},
+		{"text":"32228","latitude":"30.38787","longitude":"-81.40865"},
+		{"text":"32266","latitude":"30.3173383","longitude":"-81.4086665"},
+		{"text":"32209","latitude":"30.3617347999999","longitude":"-81.6966305999999"},
+		{"text":"32205","latitude":"30.3065729","longitude":"-81.7294702"},
+		{"text":"32256","latitude":"30.2205397","longitude":"-81.5537192"},
+		{"text":"32223","latitude":"30.1588304999999","longitude":"-81.6582993999999"},
+		{"text":"32227","latitude":"30.3883044","longitude":"-81.4004227"},
+		{"text":"32233","latitude":"30.3493502","longitude":"-81.4169093"},
+		{"text":"32226","latitude":"30.4573359","longitude":"-81.4937992999999"},
+		{"text":"32246","latitude":"30.3093218","longitude":" -81.5047771999999"},
+		{"text":"32250","latitude":"30.2745944","longitude":" -81.4114142"},
+		{"text":"32218","latitude":"30.4686832","longitude":" -81.6692532"},
+		{"text":"32254","latitude":"30.3476884","longitude":" -81.7458845"},
+		{"text":"32219","latitude":"30.4312586","longitude":" -81.8005724"},
+		{"text":"32225","latitude":"30.3658304","longitude":" -81.4937992999999"},
+		{"text":"32277","latitude":"30.3776024","longitude":" -81.5870604"},
+		{"text":"32206","latitude":"30.346791","longitude":" -81.6418656"},
+		{"text":"32210","latitude":"30.2775931","longitude":" -81.7239979"},
+		{"text":"32211","latitude":"30.3378989","longitude":" -81.5925427"},
+		{"text":"32216","latitude":"30.2906907","longitude":" -81.5706108999999"},
+		{"text":"32244","latitude":"30.2102306","longitude":" -81.7458845"},
+		{"text":"32207","latitude":"30.2949194","longitude":" -81.6363868999999"},
+		{"text":"32222","latitude":"30.2211093","longitude":" -81.8279010999999"},
+		{"text":"32202","latitude":"30.3276337","longitude":" -81.6555607"},
+		{"text":"32220","latitude":"30.3424249","longitude":" -81.8442934"},
+		{"text":"32224","latitude":"30.2606613","longitude":" -81.4608559999999"},
+		{"text":"32221","latitude":"30.253501","longitude":" -81.8879884"},
+		{"text":"32217","latitude":"30.243028","longitude":" -81.6309078"},
+		{"text":"32212","latitude":"30.2114525","longitude":" -81.6747295"},
+		{"text":"32257","latitude":"30.2018746","longitude":" -81.614468"},
+		{"text":"32204","latitude":"30.3152434","longitude":" -81.6856808"}
+	];
+
+	var zipLayer = new google.maps.KmlLayer({
+	    url: 'http://ericwallace904.github.io/duval-zip-codes.kml',
+	    map: map
+	});
+
+	jaxISOMapOverlay = new google.maps.GroundOverlay(
+            'http://media.news4jax.com/photo/2016/03/25/ISO_stations_only_transparent_1458934736610_2449554_ver1.0.png',
+            imageBounds);
+        jaxISOMapOverlay.setMap(map);
+	     jaxISOMapOverlay.setOpacity(.5);
+
+	for (var i = 0; i < zipLabels.length; i++) {
+		var t = zipLabels[i].text;
+		var zLat = parseFloat(zipLabels[i].latitude);
+		var zLng = parseFloat(zipLabels[i].longitude);
+		var pos = new google.maps.LatLng(zLat, zLng);
+//		console.log(t);
+//		console.log(zLat);
+//		console.log(zLng);
+	//	console.log(pos);
+
+		var zipLabel = new MapLabel({
+			position: pos,
+			text: t,
+			fontSize: 14,
+			zIndex: 1000,
+			paneType: 'floatPane',
+			map: map
+		});
+		
+	}
+
+      }
+    </script>
+    </body>
+</html>
