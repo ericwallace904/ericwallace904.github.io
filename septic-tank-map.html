@@ -3,14 +3,14 @@
   <head>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
-    <title>ISO Rating Map</title>
+    <title>Septic Tank Map</title>
     <style>
       html, body {
         height: 100%;
         margin: 0;
         padding: 0;
       }
-      #map {
+      #mapid {
         height: 100%;
       }
     </style>
@@ -20,9 +20,9 @@
     <script src="https://maps.googleapis.com/maps/api/js"></script>
 <script src="http://ericwallace904.github.io/jsmap-label.js"></script>
 <script>
-      // ISO rating map for Jacksonville, FL
+      // septic tank map for Jacksonville, FL
 
-      var jaxISOMapOverlay;
+  var oldSepticMapOverlay;
 
       function initMap() {
         var map = new google.maps.Map(document.getElementById('map'), {
@@ -30,12 +30,13 @@
           center: {lat: 30.32890, lng: -81.66170}
         });
 
+
+	  
         var imageBoundsOld = {
           north: 30.599453,
           south: 30.09515,
           east: -81.353306,
           west: -82.101403
-
         };
 
 	var zipLabels = [
@@ -80,21 +81,19 @@
 	    map: map
 	});
 
-	jaxISOMapOverlay = new google.maps.GroundOverlay(
-            'http://media.news4jax.com/photo/2016/03/25/ISO_stations_only_transparent_1458934736610_2449554_ver1.0.png',
-            imageBounds);
-        jaxISOMapOverlay.setMap(map);
-	     jaxISOMapOverlay.setOpacity(.5);
 
+	oldSepticMapOverlay = new google.maps.GroundOverlay(
+            'http://media.news4jax.com/photo/2016/09/19/2006%20septic%20tank%20map_1474301221623_8016731_ver1.0.png',
+            imageBoundsOld);
+        oldSepticMapOverlay.setMap(map);
+	     oldSepticMapOverlay.setOpacity(.5);
+
+		 
 	for (var i = 0; i < zipLabels.length; i++) {
 		var t = zipLabels[i].text;
 		var zLat = parseFloat(zipLabels[i].latitude);
 		var zLng = parseFloat(zipLabels[i].longitude);
 		var pos = new google.maps.LatLng(zLat, zLng);
-//		console.log(t);
-//		console.log(zLat);
-//		console.log(zLng);
-	//	console.log(pos);
 
 		var zipLabel = new MapLabel({
 			position: pos,
