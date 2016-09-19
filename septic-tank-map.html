@@ -23,6 +23,7 @@
       // septic tank map for Jacksonville, FL
 
   var oldSepticMapOverlay;
+  var newSepticMapOverlay;
 
       function initMap() {
         var map = new google.maps.Map(document.getElementById('map'), {
@@ -36,6 +37,13 @@
           east: -81.353306,
           west: -82.101403
         };
+		
+		var imageBoundsNew = {
+		  north: 30.598653,
+          south: 30.077186,
+          east: -81.365653,
+          west: -82.073022
+		};
 
 	var zipLabels = [
 		{"text":"32208","latitude":"30.3893011","longitude":"-81.6802053999999"},
@@ -85,6 +93,12 @@
             imageBoundsOld);
         oldSepticMapOverlay.setMap(map);
 	     oldSepticMapOverlay.setOpacity(.5);
+		 
+	newSepticMapOverlay = new google.maps.GroundOverlay(
+            'http://media.news4jax.com/photo/2016/09/19/2016-septic-tank-map_1474304886496_8016930_ver1.0.png',
+            imageBoundsOld);
+        newSepticMapOverlay.setMap(map);
+	    newSepticMapOverlay.setOpacity(.5);
 
 		 
 	for (var i = 0; i < zipLabels.length; i++) {
