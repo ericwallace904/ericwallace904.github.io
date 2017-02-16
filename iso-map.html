@@ -18,7 +18,7 @@
   <body onLoad="initMap();">
     <div id="map"></div>
     <script src="https://maps.googleapis.com/maps/api/js"></script>
-<script src="http://ericwallace904.github.io/jsmap-label.js"></script>
+<script src="https://ericwallace904.github.io/jsmap-label.js"></script>
 <script>
       // ISO rating map for Jacksonville, FL
 
@@ -76,12 +76,12 @@
 	];
 
 	var zipLayer = new google.maps.KmlLayer({
-	    url: 'http://ericwallace904.github.io/duval-zip-codes.kml',
+	    url: 'https://ericwallace904.github.io/duval-zip-codes.kml',
 	    map: map
 	});
 
 	jaxISOMapOverlay = new google.maps.GroundOverlay(
-            'http://media.news4jax.com/photo/2016/03/25/ISO_stations_only_transparent_1458934736610_2449554_ver1.0.png',
+            'https://media.news4jax.com/photo/2016/03/25/ISO_stations_only_transparent_1458934736610_2449554_ver1.0.png',
             imageBounds);
         jaxISOMapOverlay.setMap(map);
 	     jaxISOMapOverlay.setOpacity(.5);
